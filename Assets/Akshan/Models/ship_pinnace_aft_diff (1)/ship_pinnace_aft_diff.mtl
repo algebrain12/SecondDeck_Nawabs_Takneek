@@ -1,0 +1,122 @@
+# MTL file - created by a modified js OBJExporter
+
+newmtl ship_pinnace_rigging
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd ship_pinnace_rigging.png
+map_Pm metalnessMap1.png
+map_Pr roughnessMap1.png
+norm normalMap1.png
+
+newmtl ship_pinnace_aft
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd ship_pinnace_aft.png
+map_Pm metalnessMap2.png
+map_Pr metalnessMap2.png
+norm normalMap2.png
+
+newmtl ship_pinnace_deck
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd ship_pinnace_deck.png
+map_Pm metalnessMap3.png
+map_Pr metalnessMap3.png
+norm normalMap3.png
+
+newmtl ship_pinnace_details
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd ship_pinnace_details.png
+map_Pm metalnessMap4.png
+map_Pr metalnessMap4.png
+norm normalMap4.png
+
+newmtl ship_pinnace_hull
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd ship_pinnace_hull.png
+map_Pm metalnessMap5.png
+map_Pr metalnessMap5.png
+norm normalMap5.png
+
+newmtl ship_pinnace_interior
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd ship_pinnace_interior.png
+map_Pm metalnessMap6.png
+map_Pr metalnessMap6.png
+norm normalMap6.png
+
+newmtl ship_pinnace_sails
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pm 1
+Pr 1
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
+map_Kd ship_pinnace_sails.png
+map_Pm metalnessMap7.png
+map_Pr metalnessMap7.png
+norm normalMap7.png
+
+newmtl material_0
+Tr 0.0000
+Tf 1.0000 1.0000 1.0000
+illum 1
+Pr 0.6
+Pds 1
+Pl 1
+Ka 1 1 1
+Kd 1 1 1
+Ke 0 0 0
