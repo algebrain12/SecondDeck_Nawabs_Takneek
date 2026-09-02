@@ -156,6 +156,12 @@ Source: https://pixabay.com/sound-effects
 Music Track: Epic Cinematic Explosion by Universfield
 Source: https://pixabay.com/sound-effects
 
+War FX by Jean Moreno
+Source: Unity Asset Store
+
+AllSkyFree by rpgwhitelock
+Source: Unity Asset Store
+
 
 ## AI Tool Usage
 
