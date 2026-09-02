@@ -4,12 +4,12 @@
 
 **Team Members:**
 - Akshan Sharma - 250087
-- Sushant Prabhu
-- Amardeep
-- Nayan
-- Arpan Mittal
-- Divyanshu Lohani
-- Aryan
+- Sushant Prabhu - 251102
+- Amardeep - 250109
+- Jayesh Girase - 250485
+- Arpan Mittal - 260183
+- Divyanshu Lohani - 265102
+- Aryan - 260197
 
 ---
 
