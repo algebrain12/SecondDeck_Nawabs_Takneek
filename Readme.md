@@ -9,7 +9,7 @@
 - Jayesh Girase - 250485
 - Arpan Mittal - 260183
 - Divyanshu Lohani - 265102
-- Aryan - 260197
+- Aryan Raj - 260197
 
 ---
 
