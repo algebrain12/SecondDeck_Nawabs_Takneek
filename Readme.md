@@ -55,7 +55,7 @@ Every ship spawns with one randomly assigned ability, each with a distinct passi
 
 ### Requirements
 
-- **Host device:** Windows/Mac/Linux PC or laptop capable of running the Unity build, on the same Wi-Fi network as the phones.
+- **Host device:** Windows PC or laptop capable of running the Unity build, on the same Wi-Fi network as the phones.
 - **Client device(s):** Android smartphone(s) with a gyroscope, accelerometer, and vibration motor. One phone must be able to host a Wi-Fi hotspot (see connection instructions below).
 
 ### Steps
