@@ -15,8 +15,6 @@
 - Divyanshu Lohani
 - Aryan
 
-**GitHub Repository:** [REPO LINK]
-
 ---
 
 ## Game Overview
