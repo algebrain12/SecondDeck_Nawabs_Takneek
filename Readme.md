@@ -2,10 +2,6 @@
 
 **Takneek PS – Zenith: "Second Screen: Beyond the Controller"**
 
-## Team
-
-**Team Name:** [TEAM NAME]
-
 **Team Members:**
 - Akshan Sharma - 250087
 - Sushant Prabhu
