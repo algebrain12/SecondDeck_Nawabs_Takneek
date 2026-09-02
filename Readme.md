@@ -141,7 +141,6 @@ public class BenchmarkPingPayload
 4. The endpoint is scene-scoped, not a single persistent process — each scene (lobby, host gameplay, each phone scene) registers it independently on load. A brief gap during scene transitions is expected, and is itself valid "connection/reconnection behaviour" data if a benchmark run spans one.
 5. Max TCP frame size: 10,000,000 bytes. UDP is bound by standard OS datagram limits.
 
-Full protocol reference: [`BENCHMARK_ENDPOINT.md`](./BENCHMARK_ENDPOINT.md).
 
 ---
 
